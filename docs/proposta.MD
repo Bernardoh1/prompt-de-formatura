@@ -103,4 +103,10 @@ Python, Pygame, pytest e o template da disciplina. Imagens, fontes ou sons exter
 ## 17. Declaração de originalidade
  
 Declaro que esta proposta é original e foi elaborada por mim para esta disciplina. A ideia é inspirada no jogo mobile "A Vida é um Jogo", mas a ambientação na faculdade, as regras, as escolhas e a mecânica de uso da IA são autorais.
- 
+
+## 18. Atualização para a Entrega 2
+
+* O movimento da estudante passou a ser nas quatro direções (setas, com diagonal), em visão de cima, em vez de só para os lados.
+* O pulo ficou como possível melhoria, a decidir na entrega final, porque faz mais sentido em visão lateral.
+* O protótipo tem uma cena, uma gema como ponto de escolha, 3 situações de escolha e 3 finais, com nota, conhecimento e dependência da IA.
+* Livros coletáveis, mais cenas, recorde em arquivo e testes ficam para a entrega final.

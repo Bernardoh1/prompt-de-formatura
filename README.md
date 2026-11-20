@@ -41,8 +41,8 @@ Chegar à formatura com o melhor desempenho possível, equilibrando nota e apren
 
 ## Controles
 
-* Seta para a esquerda e para a direita: andar
-* Espaço: pular
+* Setas: andar (cima, baixo, esquerda e direita)
+* Espaço: pular (ainda não implementado)
 * ENTER: interagir com um ponto de escolha
 * Teclas 1, 2 e 3: escolher uma das opções
 * ESC: sair do jogo
